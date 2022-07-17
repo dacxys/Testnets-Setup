@@ -29,7 +29,7 @@ cd /root
 ```
 
 # System update:
-
+```
 sudo apt update && sudo apt upgrade -y
 ```
 
@@ -156,10 +156,6 @@ stafihubd tx staking create-validator \
 ```
 
 # You should have success ouput with txhash you received when you paste it in explorer.
-
-![image](https://user-images.githubusercontent.com/101149671/177530977-9e98bcbd-5928-41d8-9a9a-afde3b0a1a85.png)
-
-![image](https://user-images.githubusercontent.com/101149671/177531070-e170759e-4996-44eb-bd46-1b6e4ff4c868.png)
 
 # Explorer link: https://testnet-explorer.stafihub.io/stafi-hub-testnet
 
